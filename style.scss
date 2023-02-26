@@ -1,0 +1,67 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: content-box;
+  font-family: 'Trebuchet MS', sans-serif;
+}
+body {
+  background-image: url(img/none.jpeg);
+  background-color: rgba(36, 45, 93, 0.397);
+  background-blend-mode: color;
+  background-size:550px;
+  background-repeat: no-repeat;
+}
+.navbar-brand{
+  span{
+    color: white;
+  }
+}
+h2{
+  color: #393b3dfc;
+  font-size: 30px;
+  font-weight: bolder;
+  text-shadow: 2px 2px 0px #FFFFFF, 5px 4px 0px rgba(0,0,0,0.15), 14px 13px 3px rgba(0,0,0,0.39);
+}
+.main-container {
+  background-color: rgba(159, 149, 149, 0.367);
+  -webkit-box-shadow: 1px 2px 18px 10px rgba(255, 255, 255, 0.518); 
+  box-shadow: 1px 2px 18px 10px rgba(255, 255, 255, 0.451);
+}
+.input-container{
+  height: 150px;
+}
+p{
+  margin: 0px;
+  padding: 0px;
+}
+.p1{
+  font-size: 30px;
+}
+.p2{
+  font-size: 60px;
+}
+.p3{
+  font-size: 20px;
+}
+.p4{
+  font-size: 20px;
+}
+.p5{
+  font-size: 20px;
+}
+// img{
+
+// }
+
+
+
+
+
+
+
+
+
+
+
+
+
